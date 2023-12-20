@@ -32,6 +32,25 @@ The movie booked by the user will be stored in database and is retrived and show
 - #### MongoDB:
     A NoSQL database that stores data in a flexible, JSON-like format. 
 
+# Bookmyshow - Backend
+
+This backend it built on top of Node.js where the user data is being stored and retrived flexibly from MongoDB and shown on the UI.
+
+## Technologies used
+- Express.
+   
+    To Create Server.
+- MongoDB.
+
+    To store and retrive the data of the user.
+
+### Usage 
+It takes the user data from the [Front-end](https://github.com/SnehalGajbhiyeG/Book-My-Show) and uses [Mongo DB Atlas](https://www.mongodb.com/cloud/atlas/register) to store the data recieved and fetches the data back from the database to show the user that the operation was successfully completed.
+
+
+Thanks
+
+
 
 # Bookmyshow - Backend
 
